@@ -52,5 +52,5 @@ Para borrar una cantidad especifica de mensajes: !clear (cantidad)
         
 Esto sirve para hacer que un comando solo funcione en un canal especifico. 
 
-Ejemplo: En las funciones que comienzan en 'async def nombre:' abajo de eso copias lo que te puse y donde dice 'comandos' lo cambias por el canal donde quieres que se utilice el comando. 
+Ejemplo: En las funciones que comienzan en 'async def nombre:' abajo de eso pegas lo que te puse y donde dice 'comandos' lo cambias por el canal donde quieres que se utilice el comando. 
 
